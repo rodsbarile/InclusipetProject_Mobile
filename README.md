@@ -56,7 +56,7 @@ Clone o repositorio localmente pelo Software do Android Studio, ou diretamente p
   # Entre na sua pasta AndroidStudioProjects
   cd C:/Users/SeuUsuario/AndroidStudioProjects
   # Clone o repositorio
-  git clone https://github.com/Apolo-Heh/InclusipetProject_Mobile
+  git clone https://github.com/rodsbarile/InclusipetProject_Mobile
 ```
 
 Certifique-se de que o Android Studio terminou de baixar as dependencias do Gradle, após isso é possivel executar o aplicativo no emulador ou em um dispositivo fisico.
