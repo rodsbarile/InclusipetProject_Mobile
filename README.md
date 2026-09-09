@@ -1,6 +1,6 @@
-![Logo](https://github.com/Apolo-Heh/InclusipetProject_Mobile/blob/master/app/src/main/res/drawable-nodpi/banner.png)
+![Logo](https://github.com/rodsbarile/InclusipetProject_Mobile/blob/master/app/src/main/res/drawable-nodpi/banner.png)
 
-[**Inclusipet**](https://github.com/Apolo-Heh/InclusipetProject) é um site desenvolvido para um projeto que dura 2 anos ( 2023 - 2024 ) com uma empresa parceira no curso de Desenvolvimento de Sistemas AMS da Etec da Zona Leste. <br> <br>
+[**Inclusipet**](https://github.com/rodsbarile/InclusipetProject) é um site desenvolvido para um projeto que dura 2 anos ( 2023 - 2024 ) com uma empresa parceira no curso de Desenvolvimento de Sistemas AMS da Etec da Zona Leste. <br> <br>
 Este repositório faz parte desse projeto, cobrindo a parte da [**aplicação Mobile**](https://drive.google.com/file/d/1X5gTYyRNvY_xTznlJKeusi64kDknuwfW/view?usp=sharing) <br>
 <br>
 
@@ -120,7 +120,7 @@ O aplicativo foi criado utilizando [ **Figma**](https://www.figma.com/file/L4PJE
         </sub>
       </td>
       <td align="center">
-        <a href="https://github.com/Apolo-Heh">
+        <a href="https://github.com/rodsbarile">
           <img src="https://avatars.githubusercontent.com/u/132484542?v=4" width="100px;" alt="Carlos - Github"/><br>
           <sub>
               <b>Carlos</b>
